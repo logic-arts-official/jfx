@@ -6,7 +6,6 @@ package com.javafx.examples.controls;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.*;
-import javafx.scene.control.skin.HTMLEditor;
 import javafx.scene.layout.Region;
 import javafx.scene.layout.VBox;
 
